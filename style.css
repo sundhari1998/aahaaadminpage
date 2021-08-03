@@ -1,0 +1,52 @@
+html,body
+{
+    height: 100%;
+    width: 100%;
+    font-family: Open Sans;
+    
+}
+
+
+
+
+#admin { height: 300px;  overflow: hidden; }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, -50%);
+  }
+
+
+
+
+
+
+
+  .card
+  {
+    animation-delay: 7s;
+    box-shadow: 10px 10px 5px grey;
+  
+  }
+
+  h3
+  {
+    color: #124374;
+    animation-delay: 4s;
+
+  }
+
+  h6,h1{
+    animation-delay:4s ;
+  }
+
+ 
+
+  
+  
+  center img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
